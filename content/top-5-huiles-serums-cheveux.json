@@ -1,0 +1,54 @@
+{
+  "slug": "top-5-huiles-serums-cheveux",
+  "title": "Top 5 des huiles et sérums capillaires anti-frisottis",
+  "excerpt": "Cheveux secs, abîmés ou juste en manque de brillance : ces huiles et sérums réparateurs dompent les frisottis et protègent de la chaleur, du premier prix au soin de salon.",
+  "hookSubject": "les meilleures huiles et sérums capillaires du moment",
+  "format": "comparatif",
+  "products": [
+    {
+      "name": "L'Oréal Paris Elseve Huile Extraordinaire Soin Cheveux Secs 100ml",
+      "price": "10,91 €",
+      "image": "/images/products/loreal-elseve-huile-extraordinaire.jpg",
+      "category": "huile-capillaire",
+      "affiliateUrl": "https://www.amazon.fr/dp/B00GEQON98?tag=secure012de-21",
+      "pros": ["Excellent rapport qualité-prix", "Huiles de marula et camélia, contrôle frisottis 96h"],
+      "cons": ["Parfum plus présent que les soins haut de gamme"]
+    },
+    {
+      "name": "L'Oréal Professionnel Huile Cheveux Leave-In 10-en-1 Absolut Repair 90ml",
+      "price": "23,99 €",
+      "image": "/images/products/loreal-pro-absolut-repair-leave-in.jpg",
+      "category": "huile-capillaire",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0918FHY6P?tag=secure012de-21",
+      "pros": ["Spray thermoprotecteur et démêlant en un geste", "Toucher léger, ne graisse pas les cheveux"],
+      "cons": ["Format spray moins pratique à doser"]
+    },
+    {
+      "name": "Arganicare Sérum réparateur à la kératine 100ml",
+      "price": "18,00 €",
+      "image": "/images/products/arganicare-serum-reparateur-keratine.jpg",
+      "category": "huile-capillaire",
+      "affiliateUrl": "https://www.amazon.fr/dp/B06VXYCMCZ?tag=secure012de-21",
+      "pros": ["Formule sans sulfate ni paraben", "Brillance miroir immédiate, protège de la chaleur"],
+      "cons": ["Moins connue que les grandes marques"]
+    },
+    {
+      "name": "Kérastase Elixir Ultime L'Huile Originale",
+      "price": "44,95 €",
+      "image": "/images/products/kerastase-elixir-ultime-huile-originale.jpg",
+      "category": "huile-capillaire",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CY3GR4FS?tag=secure012de-21",
+      "pros": ["Référence des salons, texture non grasse", "Huiles de camélia et argan, tous types de cheveux"],
+      "cons": ["Prix premium pour un usage quotidien"]
+    },
+    {
+      "name": "Moroccanoil Traitement Huile Capillaire 100ml",
+      "price": "49,50 €",
+      "image": "/images/products/moroccanoil-traitement-huile-capillaire.jpg",
+      "category": "huile-capillaire",
+      "affiliateUrl": "https://www.amazon.fr/dp/B001AO0WCG?tag=secure012de-21",
+      "pros": ["Le coup de cœur culte, plébiscité par les coiffeurs", "Parfum signature, brillance et douceur immédiates"],
+      "cons": ["Le plus cher de la sélection"]
+    }
+  ]
+}

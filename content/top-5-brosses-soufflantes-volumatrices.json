@@ -1,0 +1,54 @@
+{
+  "slug": "top-5-brosses-soufflantes-volumatrices",
+  "title": "Top 5 des brosses soufflantes volumatrices façon Airwrap",
+  "excerpt": "Envie de l'effet Airwrap sans casser ta tirelire ? Ces brosses soufflantes sèchent, lissent et donnent du volume en un seul coup de brosse.",
+  "hookSubject": "les meilleures brosses soufflantes volumatrices du moment",
+  "format": "coup-de-coeur",
+  "products": [
+    {
+      "name": "BaByliss Brosse soufflante Shape & Smooth AS82E",
+      "price": "19,19 €",
+      "image": "/images/products/babyliss-as82e-shape-smooth.jpg",
+      "category": "brosse-soufflante",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07ZHPDPQR?tag=secure012de-21",
+      "pros": ["Prix mini pour se lancer", "2 embouts 30mm et 20mm, fonction air froid"],
+      "cons": ["Puissance plus limitée qu'un modèle premium"]
+    },
+    {
+      "name": "BaByliss Brosse soufflante Perfect Finish AS126E",
+      "price": "30,02 €",
+      "image": "/images/products/babyliss-as126e-perfect-finish.jpg",
+      "category": "brosse-soufflante",
+      "affiliateUrl": "https://www.amazon.fr/dp/B085D7MF2Z?tag=secure012de-21",
+      "pros": ["3 accessoires : lisser, volumiser, mettre en forme", "Technologie ionique anti-frisottis"],
+      "cons": ["Seulement 2 réglages de chaleur"]
+    },
+    {
+      "name": "Revlon Sèche-cheveux volumisant Salon One-Step RVDR5222AMZ",
+      "price": "38,11 €",
+      "image": "/images/products/revlon-rvdr5222amz-one-step.jpg",
+      "category": "brosse-soufflante",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0D98PWHXN?tag=secure012de-21",
+      "pros": ["Best-seller viral, effet brushing salon", "Idéale cheveux longs et mi-longs"],
+      "cons": ["Volumineuse, moins pratique en voyage"]
+    },
+    {
+      "name": "BaByliss Brosse soufflante Air Power Volume AS95E",
+      "price": "63,00 €",
+      "image": "/images/products/babyliss-as95e-air-power-volume.jpg",
+      "category": "brosse-soufflante",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0D6YQQPFP?tag=secure012de-21",
+      "pros": ["Utilisable sur cheveux secs ou mouillés", "3 réglages de température, finition premium"],
+      "cons": ["Prix plus élevé que les modèles d'entrée de gamme"]
+    },
+    {
+      "name": "TYMO Brosse Soufflante One-Step 5 en 1",
+      "price": "89,99 €",
+      "image": "/images/products/tymo-one-step-5en1.jpg",
+      "category": "brosse-soufflante",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0G4W45B2J?tag=secure012de-21",
+      "pros": ["Le coup de cœur : effet Airwrap abordable", "Moteur turbo, sèche, lisse, boucle et volumise"],
+      "cons": ["Le plus cher de la sélection"]
+    }
+  ]
+}

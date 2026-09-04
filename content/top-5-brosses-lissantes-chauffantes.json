@@ -1,0 +1,54 @@
+{
+  "slug": "top-5-brosses-lissantes-chauffantes",
+  "title": "Top 5 des brosses lissantes chauffantes qui remplacent ton lisseur",
+  "excerpt": "Fini le lisseur qui tire les cheveux : ces brosses chauffantes lissent en douceur en un seul geste, pour un résultat lisse et brillant en quelques minutes.",
+  "hookSubject": "les meilleures brosses lissantes chauffantes du moment",
+  "format": "comparatif",
+  "products": [
+    {
+      "name": "Cecotec Brosse Lissante Bamba InstantCare 900 PerfectBrush",
+      "price": "15,90 €",
+      "image": "/images/products/cecotec-bamba-instantcare-900.jpg",
+      "category": "brosse-lissante",
+      "affiliateUrl": "https://www.amazon.fr/dp/B081SZMDCZ?tag=secure012de-21",
+      "pros": ["Prix mini pour découvrir la brosse lissante", "Revêtement kératine et huile d'argan"],
+      "cons": ["Zone de brossage plus étroite qu'un modèle premium"]
+    },
+    {
+      "name": "Remington Brosse Lissante Ionique Straight Brush CB7400",
+      "price": "33,99 €",
+      "image": "/images/products/remington-cb7400-straight-brush.jpg",
+      "category": "brosse-lissante",
+      "affiliateUrl": "https://www.amazon.fr/dp/B01KLXG14O?tag=secure012de-21",
+      "pros": ["Design slim ergonomique facile à manier", "Technologie ionique anti-frisottis"],
+      "cons": ["Moins rapide en chauffe que les modèles récents"]
+    },
+    {
+      "name": "Philips Brosse lissante chauffante StyleCare Essential BHH880/00",
+      "price": "44,19 €",
+      "image": "/images/products/philips-stylecare-bhh880.jpg",
+      "category": "brosse-lissante",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07FSBH6XY?tag=secure012de-21",
+      "pros": ["Zone de brossage ultra-large, séances plus rapides", "Céramique tourmaline + ThermoProtect"],
+      "cons": ["Un peu plus lourde en main"]
+    },
+    {
+      "name": "TYMO Ring Brosse Lissante pour Cheveux",
+      "price": "59,99 €",
+      "image": "/images/products/tymo-ring-brosse-lissante.jpg",
+      "category": "brosse-lissante",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07MMQ4BZH?tag=secure012de-21",
+      "pros": ["Chauffe en 25 secondes seulement", "5 réglages de température, écran clair"],
+      "cons": ["Prix plus élevé que les modèles d'entrée de gamme"]
+    },
+    {
+      "name": "Bopcal Brosse Lissante 3 en 1 Sans Fil 10000mAh",
+      "price": "69,99 €",
+      "image": "/images/products/bopcal-brosse-lissante-3in1.jpg",
+      "category": "brosse-lissante",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0H1C2K9WV?tag=secure012de-21",
+      "pros": ["Sans fil avec grosse batterie, idéale en voyage", "300 millions d'ions négatifs anti-frisottis"],
+      "cons": ["Le tarif le plus élevé du comparatif"]
+    }
+  ]
+}

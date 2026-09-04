@@ -1,0 +1,54 @@
+{
+  "slug": "top-5-seche-cheveux-professionnels",
+  "title": "Top 5 des sèche-cheveux professionnels ioniques",
+  "excerpt": "Un bon sèche-cheveux ionique change tout : séchage plus rapide, moins de frisottis, plus de brillance. Voici notre comparatif du premier prix au modèle de salon.",
+  "hookSubject": "les meilleurs sèche-cheveux professionnels du moment",
+  "format": "comparatif",
+  "products": [
+    {
+      "name": "BaByliss Sèche-cheveux Turbo Smooth D572DE",
+      "price": "18,99 €",
+      "image": "/images/products/babyliss-d572de-turbo-smooth.jpg",
+      "category": "seche-cheveux",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07W4X74JC?tag=secure012de-21",
+      "pros": ["2200W puissant pour ce prix", "Diffuseur large inclus, technologie ionique"],
+      "cons": ["Moteur DC, moins endurant qu'un moteur AC"]
+    },
+    {
+      "name": "Remington Sèche-cheveux Professionnel Silk AC9096",
+      "price": "36,80 €",
+      "image": "/images/products/remington-ac9096-silk.jpg",
+      "category": "seche-cheveux",
+      "affiliateUrl": "https://www.amazon.fr/dp/B00ECBKOCW?tag=secure012de-21",
+      "pros": ["Moteur AC performant, turbo 140 km/h", "Revêtement céramique enrichi à la protéine de soie"],
+      "cons": ["Un peu bruyant en mode turbo"]
+    },
+    {
+      "name": "Remington ONE Sèche-cheveux Ionique Dry&Style D6078",
+      "price": "60,76 €",
+      "image": "/images/products/remington-d6078-one-dry-style.jpg",
+      "category": "seche-cheveux",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CNS4SHT7?tag=secure012de-21",
+      "pros": ["5 embouts et 2 diffuseurs, très polyvalent", "8 combinaisons chauffage/vitesse"],
+      "cons": ["Nombreux accessoires à stocker"]
+    },
+    {
+      "name": "Solis Sèche-Cheveux Professionnel Swiss Perfection Type 440",
+      "price": "99,90 €",
+      "image": "/images/products/solis-swiss-perfection-440.jpg",
+      "category": "seche-cheveux",
+      "affiliateUrl": "https://www.amazon.fr/dp/B00J84QTT0?tag=secure012de-21",
+      "pros": ["Moteur AC longue durée, qualité suisse", "Céramique tourmaline, 3 niveaux de température"],
+      "cons": ["Format un peu plus volumineux"]
+    },
+    {
+      "name": "GA.MA Italy Professional iQ2 Perfect",
+      "price": "249,00 €",
+      "image": "/images/products/gama-iq2-perfect.jpg",
+      "category": "seche-cheveux",
+      "affiliateUrl": "https://www.amazon.fr/dp/B09YVMM1QD?tag=secure012de-21",
+      "pros": ["Moteur sans balai 110 000 tr/min, ultraléger", "Technologie Oxy-Active, niveau salon professionnel"],
+      "cons": ["Budget élevé, réservé aux utilisatrices exigeantes"]
+    }
+  ]
+}

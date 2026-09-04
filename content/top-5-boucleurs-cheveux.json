@@ -1,0 +1,54 @@
+{
+  "slug": "top-5-boucleurs-cheveux",
+  "title": "Top 5 des boucleurs cheveux pour des boucles de rêve",
+  "excerpt": "Boucles serrées, ondulations beach waves ou boucles automatiques sans effort : voici nos fers à friser coup de cœur pour tous les styles et tous les budgets.",
+  "hookSubject": "les meilleurs boucleurs cheveux du moment",
+  "format": "coup-de-coeur",
+  "products": [
+    {
+      "name": "BaByliss Boucleur à pince 25mm Curling Tong C325E",
+      "price": "18,29 €",
+      "image": "/images/products/babyliss-c325e-boucleur.jpg",
+      "category": "boucleur",
+      "affiliateUrl": "https://www.amazon.fr/dp/B007BJEKKE?tag=secure012de-21",
+      "pros": ["Revêtement ultra-doux Sublim' Touch", "10 réglages de température, support de sécurité intégré"],
+      "cons": ["Un seul diamètre de boucle"]
+    },
+    {
+      "name": "Remington Boucleur à cheveux Keratin Protect CI83V6",
+      "price": "38,99 €",
+      "image": "/images/products/remington-ci83v6-keratin-protect.jpg",
+      "category": "boucleur",
+      "affiliateUrl": "https://www.amazon.fr/dp/B073ZDGXJB?tag=secure012de-21",
+      "pros": ["Forme conique pour ondulations naturelles", "Soin kératine et huile d'amande"],
+      "cons": ["Prise en main à apprivoiser au début"]
+    },
+    {
+      "name": "Janelove Boucleur à Cheveux 5 en 1",
+      "price": "49,99 €",
+      "image": "/images/products/janelove-5en1-boucleur.jpg",
+      "category": "boucleur",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CJ5BDXT7?tag=secure012de-21",
+      "pros": ["5 têtes interchangeables pour varier les boucles", "Kit complet avec gant et pochette de voyage"],
+      "cons": ["Encombrant à ranger avec tous les accessoires"]
+    },
+    {
+      "name": "TYMO ROVY Boucleur à Cheveux 32mm",
+      "price": "69,99 €",
+      "image": "/images/products/tymo-rovy-32mm.jpg",
+      "category": "boucleur",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0C2ZGQ15W?tag=secure012de-21",
+      "pros": ["Parfait pour débutantes, grandes boucles faciles", "Affichage LED, 4 températures réglables"],
+      "cons": ["Diamètre unique, pas pour les boucles serrées"]
+    },
+    {
+      "name": "TYMO Curlpro Plus Fer à Friser Automatique",
+      "price": "99,99 €",
+      "image": "/images/products/tymo-curlpro-plus-automatique.jpg",
+      "category": "boucleur",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DPZLWX8J?tag=secure012de-21",
+      "pros": ["Boucles automatiques, zéro effort", "Anti-brûlure, chauffage rapide et régulier"],
+      "cons": ["Le plus cher du comparatif"]
+    }
+  ]
+}

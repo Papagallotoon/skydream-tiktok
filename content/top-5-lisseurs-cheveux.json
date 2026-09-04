@@ -1,0 +1,54 @@
+{
+  "slug": "top-5-lisseurs-cheveux",
+  "title": "Top 5 des lisseurs cheveux, du budget au coup de cœur ultime",
+  "excerpt": "Du premier prix efficace au lisseur vapeur de salon, voici les fers à lisser qu'on adore vraiment pour un lissage impeccable sans abîmer les cheveux.",
+  "hookSubject": "les meilleurs lisseurs cheveux du moment",
+  "format": "coup-de-coeur",
+  "products": [
+    {
+      "name": "Remington Lisseur Cheveux Pro-Ceramic Extra S5525",
+      "price": "30,71 €",
+      "image": "/images/products/remington-s5525-pro-ceramic.jpg",
+      "category": "lisseur",
+      "affiliateUrl": "https://www.amazon.fr/dp/B00MCSW8X0?tag=secure012de-21",
+      "pros": ["Plaques 45mm flottantes, idéal cheveux épais", "Écran LCD, chauffe jusqu'à 230°C"],
+      "cons": ["Moins maniable sur cheveux courts"]
+    },
+    {
+      "name": "BaByliss Lisseur Cheveux Super Smooth ST393E",
+      "price": "35,90 €",
+      "image": "/images/products/babyliss-st393e-super-smooth.jpg",
+      "category": "lisseur",
+      "affiliateUrl": "https://www.amazon.fr/dp/B07W864798?tag=secure012de-21",
+      "pros": ["Chauffe ultra-rapide, gain de temps le matin", "Technologie ionique anti-frisottis"],
+      "cons": ["Câble un peu court"]
+    },
+    {
+      "name": "Remington Lisseur Cheveux Keratin Therapy S8593",
+      "price": "44,99 €",
+      "image": "/images/products/remington-s8593-keratin-therapy.jpg",
+      "category": "lisseur",
+      "affiliateUrl": "https://www.amazon.fr/dp/B09RN8Q4CW?tag=secure012de-21",
+      "pros": ["Capteur de protection contre la chaleur", "Soin kératine et huile d'amande intégré"],
+      "cons": ["Pochette de rangement un peu petite"]
+    },
+    {
+      "name": "ghd Lisseur Cheveux Original",
+      "price": "149,00 €",
+      "image": "/images/products/ghd-original.jpg",
+      "category": "lisseur",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CCYPKJHL?tag=secure012de-21",
+      "pros": ["Référence des salons de coiffure professionnels", "Résultat lisse, doux et brillant, sans chaleur extrême"],
+      "cons": ["Investissement conséquent"]
+    },
+    {
+      "name": "L'Oréal Professionnel Steampod 4",
+      "price": "369,00 €",
+      "image": "/images/products/loreal-steampod-4.jpg",
+      "category": "lisseur",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FQPF7F2N?tag=secure012de-21",
+      "pros": ["Technologie vapeur brevetée, 95% de dommages en moins", "Coiffage express, tous types de cheveux"],
+      "cons": ["Prix très élevé, réservé aux passionnées"]
+    }
+  ]
+}
