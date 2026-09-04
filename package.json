@@ -1,0 +1,12 @@
+{
+  "name": "skydream-tiktok",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "video:run": "node video-pipeline/run.mjs"
+  },
+  "dependencies": {
+    "msedge-tts": "^2.0.7"
+  }
+}
